@@ -1,38 +1,44 @@
-Project Name:
-IT Support Automation & System Health Monitoring Tool
+# IT Support Automation & System Health Monitoring Tool
 
-Description:
-This project is designed to automate basic IT support activities by monitoring system health and analyzing incident tickets.
+## Project Overview
+This project is designed to automate basic IT support tasks by monitoring Windows system health and analyzing IT support incidents.
 
-Objective:
-To reduce manual troubleshooting efforts by generating system health reports and tracking IT support incidents.
+The tool helps support engineers quickly identify system issues and track support tickets efficiently.
 
-Features:
+## Features
 - Windows system health monitoring
-- CPU and memory information
-- Disk usage tracking
-- Network connectivity check
-- Error log monitoring
+- Disk usage checking
+- Memory status monitoring
+- Network connectivity testing
+- System error log analysis
 - Automated HTML report generation
-- Incident ticket tracking
-- Support performance dashboard
+- IT incident ticket tracking
+- Dashboard for support analysis
 
-Tools Used:
+## Dashboard Insights
+- Total support tickets
+- Open vs Closed incidents
+- Common IT issues analysis
+- Ticket priority analysis
+- Average resolution time tracking
+
+## Tools & Technologies Used
 - Windows PowerShell
 - Microsoft Excel
 - Windows Operating System
 
-Dashboard Insights:
-- Total tickets
-- Open vs Closed incidents
-- Common IT issues
-- Ticket priority analysis
-- Average resolution time
+## Project Workflow
+1. PowerShell script collects system information.
+2. HTML health report is generated automatically.
+3. Incident data is maintained in Excel.
+4. Dashboard provides ticket analysis insights.
 
-Role:
+## Role
 System Support Engineer
 
-Future Improvements:
-- Email alerts
-- Real time monitoring
-- Multiple system tracking
+## Skills Demonstrated
+- Windows Administration
+- IT Troubleshooting
+- Automation
+- Incident Management
+- Reporting
